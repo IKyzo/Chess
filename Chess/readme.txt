@@ -1,5 +1,8 @@
 Final Project -- version 2.0 by Kahouli Wajd 
 
+New Version : 
+Bugfixes, cleanup, and QoL by Michaelangel007. 
+https://github.com/Michaelangel007/Chess_IKyzo/tree/main
 
 
 Ascii Symbols :
